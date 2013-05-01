@@ -1,0 +1,39 @@
+[submodule "apache2"]
+	path = apache2
+	url = http://github.com/opscode-cookbooks/apache2
+[submodule "application"]
+	path = application
+	url = http://github.com/opscode-cookbooks/application
+[submodule "application_python"]
+	path = application_python
+	url = http://github.com/opscode-cookbooks/application_python
+[submodule "apt"]
+	path = apt
+	url = http://github.com/opscode-cookbooks/apt
+[submodule "build-essential"]
+	path = build-essential
+	url = http://github.com/opscode-cookbooks/build-essential
+[submodule "git"]
+	path = git
+	url = http://github.com/opscode-cookbooks/git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = http://github.com/opscode-cookbooks/gunicorn
+[submodule "openssl"]
+	path = openssl
+	url = http://github.com/opscode-cookbooks/openssl
+[submodule "php"]
+	path = php
+	url = http://github.com/opscode-cookbooks/php
+[submodule "postgresql"]
+	path = postgresql
+	url = http://github.com/opscode-cookbooks/postgresql
+[submodule "python"]
+	path = python
+	url = http://github.com/opscode-cookbooks/python
+[submodule "supervisor"]
+	path = supervisor
+	url = http://github.com/opscode-cookbooks/supervisor
+[submodule "vim"]
+	path = vim
+	url = http://github.com/opscode-cookbooks/vim
